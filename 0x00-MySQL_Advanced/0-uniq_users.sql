@@ -1,4 +1,5 @@
 -- create database users
+-- task 0
 
 CREATE TABLE IF NOT EXISTS users (
     id INT NOT NULL AUTO_INCREMENT,

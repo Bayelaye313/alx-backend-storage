@@ -1,4 +1,6 @@
---sql enums
+-- sql enums
+-- create database users
+-- task 1
 
 CREATE TABLE IF NOT EXISTS users (
     id INT NOT NULL AUTO_INCREMENT,
